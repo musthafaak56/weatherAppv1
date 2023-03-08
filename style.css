@@ -3,6 +3,7 @@ body
     /* background: linear-gradient(to bottom right,rgb(2, 2, 73),rgb(15, 15, 241)); */
     background-image: url('./images/main.jpg');
     background-size: cover;
+    background-position: center;
     transition: 0.5s smooth;
 }
 .box1
