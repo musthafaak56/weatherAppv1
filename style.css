@@ -1,0 +1,27 @@
+body
+{
+    /* background: linear-gradient(to bottom right,rgb(2, 2, 73),rgb(15, 15, 241)); */
+    background-image: url('./images/main.jpg');
+    background-size: cover;
+    transition: 0.5s smooth;
+}
+.box1
+{
+    background-color: rgba(0, 0, 0, 0.309);
+    background-image: linear-gradient(to bottom right,rgba(0, 0, 0, 0.486),rgba(0, 0, 0, 0.393));
+    color: aliceblue;
+    border-radius: 10px;
+}
+#emptyDiv
+{
+    font-family: 'Philosopher', sans-serif;
+}
+.hd1
+{
+    font-family: 'Poppins', sans-serif; 
+}
+.footer1
+{
+    /* text-shadow: 2px 2px 3px #000; */
+    text-shadow: 1px 1px 2px #000, 2px 2px 4px #120c0c;
+}
